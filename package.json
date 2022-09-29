@@ -2,7 +2,7 @@
   "name": "vue-cli-plugin-watch-reload",
   "version": "1.0.0",
   "description": "Restart development server when files change",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
