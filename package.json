@@ -1,0 +1,29 @@
+{
+  "name": "vue-cli-plugin-watch-reload",
+  "version": "1.0.0",
+  "description": "Restart development server when files change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcticGizmo/vue-cli-plugin-watch-reload.git"
+  },
+  "keywords": [
+    "vue-cli-plugin",
+    "reload",
+    "watch"
+  ],
+  "author": "Jonathan Howell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArcticGizmo/vue-cli-plugin-watch-reload/issues"
+  },
+  "homepage": "https://github.com/ArcticGizmo/vue-cli-plugin-watch-reload#readme",
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "chokidar": "^3.5.3",
+    "typescript": "^4.8.4"
+  }
+}
